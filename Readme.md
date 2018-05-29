@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Irina Sotnikova](https://up.htmlacademy.ru/htmlcss/21/user/765259).
-* Наставник: `Неизвестно`.
+* Наставник: [Елена Забара](https://htmlacademy.ru/profile/lena___elena).
 
 ---
 
